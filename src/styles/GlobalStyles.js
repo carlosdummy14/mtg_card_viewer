@@ -21,6 +21,7 @@ export const GlobalStyles = createGlobalStyle`
     max-width: 500px;
     overscroll-behavior: none;
     width: 100%;
+    position: relative;
   }
 
   #app {
