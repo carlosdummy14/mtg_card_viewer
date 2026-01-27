@@ -20,7 +20,7 @@
     "babel-eslint": "^10.1.0",
     "babel-loader": "^8.1.0",
     "html-webpack-plugin": "^4.3.0",
-    "standard": "^14.3.4",
+    "standard": "^17.1.2",
     "webpack": "^5.97.1",
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^5.0.4"
