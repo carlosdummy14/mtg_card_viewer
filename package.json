@@ -23,7 +23,7 @@
     "standard": "^17.1.2",
     "webpack": "^5.104.1",
     "webpack-cli": "^3.3.12",
-    "webpack-dev-server": "^5.0.4"
+    "webpack-dev-server": "^5.2.5"
   },
   "dependencies": {
     "intersection-observer": "^0.10.0",
